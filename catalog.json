@@ -1,5 +1,14 @@
 [
  {
+  "name": "kym-chem",
+  "title": "The Invisible World",
+  "description": "Chemistry from the atom up: a chemistry book written for Kym, told as a historical adventure.",
+  "url": "https://saxster.github.io/kym-chem/",
+  "image": "https://saxster.github.io/kym-chem/og.png",
+  "pdf": "",
+  "published": "2026-10-28"
+ },
+ {
   "name": "civ-newbie-bible",
   "title": "The Civilization Newbie's Bible",
   "description": "A beginner's guide to Civilization VI and VII that uses each game plan to teach how the real world works: true stories, and hard questions about winning versus doing right.",
