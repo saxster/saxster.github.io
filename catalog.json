@@ -2,10 +2,10 @@
  {
   "name": "kym-chem",
   "title": "The Invisible World",
-  "description": "Chemistry from the atom up: a chemistry book written for Kym, told as a historical adventure.",
+  "description": "An illustrated chemistry book with chapter practice, worked examples and revision for Grade 8 and beyond.",
   "url": "https://saxster.github.io/kym-chem/",
   "image": "https://saxster.github.io/kym-chem/og.png",
-  "pdf": "laboratory-textbook.pdf",
+  "pdf": "",
   "published": "2026-10-28"
  },
  {
